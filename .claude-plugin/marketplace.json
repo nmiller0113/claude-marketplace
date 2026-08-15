@@ -1,0 +1,18 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "miller-plugins",
+  "description": "Claude Code plugins by Nathan Miller.",
+  "owner": {
+    "name": "Nathan Miller",
+    "url": "https://github.com/nmiller0113"
+  },
+  "plugins": [
+    {
+      "name": "kiss",
+      "description": "Deliver exactly what was asked, at the smallest scope that fully satisfies it, then stop and offer more.",
+      "author": { "name": "Nathan Miller" },
+      "category": "productivity",
+      "source": { "source": "github", "repo": "nmiller0113/kiss" }
+    }
+  ]
+}
