@@ -17,7 +17,8 @@
       "source": {
         "source": "github",
         "repo": "nmiller0113/kiss"
-      }
+      },
+      "homepage": "https://github.com/nmiller0113/kiss"
     }
   ]
 }
