@@ -1,4 +1,4 @@
-# Miller Plugins
+# Nate's Plugins
 
 Claude Code plugins by [Nathan Miller](https://github.com/nmiller0113).
 
@@ -6,7 +6,7 @@ Claude Code plugins by [Nathan Miller](https://github.com/nmiller0113).
 
 ```
 /plugin marketplace add nmiller0113/claude-marketplace
-/plugin install kiss@miller-plugins
+/plugin install kiss@nates-plugins
 ```
 
 ## Plugins
