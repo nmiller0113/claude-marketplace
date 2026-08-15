@@ -1,6 +1,6 @@
 # Nate's Plugins
 
-Claude Code plugins by [Nathan Miller](https://github.com/nmiller0113).
+Claude Code plugins by [Nate Miller](https://github.com/nmiller0113).
 
 ## Install
 
