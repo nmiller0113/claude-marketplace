@@ -19,6 +19,19 @@
         "repo": "nmiller0113/kiss"
       },
       "homepage": "https://github.com/nmiller0113/kiss"
+    },
+    {
+      "name": "fantasy-copilot",
+      "description": "Fantasy football copilot for Draft Sharks subscribers: live draft-day advising, pre-draft strategy, and season-long weekly guidance. Requires Draft Sharks.",
+      "author": {
+        "name": "Nathan Miller"
+      },
+      "category": "productivity",
+      "source": {
+        "source": "github",
+        "repo": "nmiller0113/fantasy-copilot"
+      },
+      "homepage": "https://github.com/nmiller0113/fantasy-copilot"
     }
   ]
 }
