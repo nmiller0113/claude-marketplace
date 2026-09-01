@@ -32,6 +32,19 @@
         "repo": "nmiller0113/fantasy-copilot"
       },
       "homepage": "https://github.com/nmiller0113/fantasy-copilot"
+    },
+    {
+      "name": "crosscheck",
+      "description": "Build against the real contract, then send every change for bounded adversarial review: three strikes, roles swap, hard stop at six.",
+      "author": {
+        "name": "Nathan Miller"
+      },
+      "category": "productivity",
+      "source": {
+        "source": "github",
+        "repo": "nmiller0113/crosscheck"
+      },
+      "homepage": "https://github.com/nmiller0113/crosscheck"
     }
   ]
 }
