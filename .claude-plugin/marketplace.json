@@ -34,17 +34,17 @@
       "homepage": "https://github.com/nmiller0113/fantasy-copilot"
     },
     {
-      "name": "crosscheck",
-      "description": "Build against the real contract, then send every change for bounded adversarial review: three strikes, roles swap, hard stop at six.",
+      "name": "building",
+      "description": "How to build something and actually finish it: the order of work, an independent bounded review, and a version that is tagged, released and findable.",
       "author": {
         "name": "Nathan Miller"
       },
       "category": "productivity",
       "source": {
         "source": "github",
-        "repo": "nmiller0113/crosscheck"
+        "repo": "nmiller0113/building"
       },
-      "homepage": "https://github.com/nmiller0113/crosscheck"
+      "homepage": "https://github.com/nmiller0113/building"
     }
   ]
 }
