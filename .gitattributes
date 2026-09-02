@@ -1,0 +1,6 @@
+# Normalise text files to LF in the repository and on checkout, on every platform.
+#
+# Without this, a Windows clone with core.autocrlf=true rewrites tracked files to CRLF.
+# Nothing here is executed, but marketplace.json is read by tooling on every platform and
+# there is no reason for its line endings to differ by who cloned it.
+* text=auto eol=lf
